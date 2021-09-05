@@ -18,3 +18,4 @@ def spiral(times,angleSpace,length,breadth,color):
     spiral.end_fill()
     turtle.done()
 spiral(180,60,80,30,"#53a4a9")
+# you can change all the parameters to see the changes.
